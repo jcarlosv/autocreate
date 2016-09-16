@@ -1,0 +1,12 @@
+Create a new autools project
+============================
+
+This is not a good idea to auto crate projects. I could use a template 
+or read the documentation :D .
+
+How to use ? 
+===========
+./autocreate.sh my_awesome_project
+
+Ready start to code or add more things ( it does to integrate check 
+or something else :(  ) .
